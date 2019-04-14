@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05deb3a3-ca9c-41b6-b529-0aa098e0d40a" name="Default Changelist" comment="" />
+    <list default="true" id="05deb3a3-ca9c-41b6-b529-0aa098e0d40a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -104,7 +106,7 @@
     <option name="totallyTimeSpent" value="642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="707" y="279" width="824" height="559" extended-state="1" />
+    <frame x="707" y="279" width="824" height="559" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
